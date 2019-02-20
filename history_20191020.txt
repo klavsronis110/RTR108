@@ -1,0 +1,98 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  qucs
+    4  ls
+    5  -X x121REB373@213.175.92.37
+    6  ssh -X x121REB373@213.175.92.37
+    7  pwd
+    8  whoami
+    9  who
+   10  uname
+   11  clear
+   12  uname -a
+   13  clear
+   14  who
+   15  whoami
+   16  pwd
+   17  uname
+   18  uname-a
+   19  uname -a
+   20  echo $0
+   21  echo
+   22  who
+   23  uname$0
+   24  uname $0
+   25  uname -a
+   26  echo $0
+   27  echo
+   28  sh
+   29  ls
+   30  cd desktop
+   31  cd Desktop
+   32  ls
+   33  cd
+   34  r
+   35  man echo
+   36  echo " tekstins"
+   37  ls
+   38  echo " tekstins"  > aaa.txt
+   39  ls
+   40  ls -lt
+   41  cat aaa.txt
+   42  echo " cits teksts"  > aaa.txt
+   43  ls 0lt
+   44  ls -lt
+   45  cat aaa.txt
+   46  echo "pavisam cits teksts"  >> aaa.txt
+   47  ls -lt
+   48  cat aaa.txt
+   49  rm aaa.txt
+   50  ls
+   51  ls -lt
+   52  mkdir TEST
+   53  ls
+   54  cd TEST
+   55  ls -la
+   56  ls- lt
+   57  ls -l
+   58  ls
+   59  ls -lt
+   60  lsc
+   61  pwd
+   62  cd
+   63  pwd
+   64  nano
+   65  nano mans_skripts.sh
+   66  ls -l
+   67  mans-skripts.sh
+   68  ./mans-skripts.sh
+   69  ./mans_skripts.sh
+   70  ~/mans_skripts.sh
+   71  /home/user/mans_skripts.sh
+   72  echo $PATH
+   73  pwd
+   74  PATH=$PATH:/home/user
+   75  echo $PATH
+   76  mans_skripts.sh
+   77  ls -l
+   78  chmod 750 mans_skripts.sh
+   79  ls -l
+   80  ls 0lt
+   81  ls -lt
+   82  ls
+   83  mans_skripts.sh
+   84  rm -r mape1
+   85  nano mans_skripts.sh
+   86  mans_skripts.sh
+   87  echo "tekstins" > aaa.txt
+   88  ls
+   89  echo "tekstins vel viens tekstins" >> aaa.txt
+   90  ls
+   91  cat aaa.txt
+   92  pwd
+   93  ls /bin/bash
+   94  cat /bin ls
+   95  cat bin ls
+   96  cat /bin/ls
+   97  history
+   98  history > history_20191020.txt
