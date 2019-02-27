@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ $# == 1 ]
 then
-git config --global.user klavsronis@inbox.lv
+git config --global user.email klavsronis@inbox.lv
 git add .
 #git commit -m "20190206_1_1"
 git commit -m $1
